@@ -9,13 +9,13 @@
     "name": "Base"
   },
   "endpoints": {
-    "url": "https://noone268.github.io/Alpha-agent",
-    "agentCard": "https://noone268.github.io/Alpha-agent/.well-known/agent-card.json"
+    "url": "https://raw.githubusercontent.com/NooNE268/Alpha-agent/main",
+    "agentCard": "https://raw.githubusercontent.com/NooNE268/Alpha-agent/main/.well-known/agent-card.json"
   },
   "capabilities": {
     "x402Payments": true
   },
-  "logo": "https://noone268.github.io/Alpha-agent/logo.png",
+  "logo": "https://raw.githubusercontent.com/NooNE268/Alpha-agent/main/logo.png",
   "provider": {
     "name": "",
     "url": ""
