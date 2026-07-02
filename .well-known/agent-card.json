@@ -1,0 +1,24 @@
+{
+  "name": "Alpha",
+  "description": "Automation of work",
+  "version": "1.0.0",
+  "type": "AI Agent",
+  "standard": "ERC-8004",
+  "network": {
+    "chainId": 8453,
+    "name": "Base"
+  },
+  "endpoints": {
+    "url": "https://noone268.github.io/Alpha-agent",
+    "agentCard": "https://noone268.github.io/Alpha-agent/.well-known/agent-card.json"
+  },
+  "capabilities": {
+    "x402Payments": true
+  },
+  "logo": "https://noone268.github.io/Alpha-agent/logo.png",
+  "provider": {
+    "name": "",
+    "url": ""
+  },
+  "created": "2026-07-02"
+}
